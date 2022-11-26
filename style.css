@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,300&family=Passions+Conflict&family=Rubik+Distressed&display=swap');
+
+#title {
+    font-size: 34px;
+    font-family: Rubik Distressed;
+    color: brown;
+    text-align: center;
+}
+
+.recipes {
+    color: #bea925;
+    font-size: 22px;
+    font-family: cochin, cambria, sans sans-serif;
+    font-weight: bold;
+}
+
+.image {
+    border: 5px solid darkgreen;
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    
+}
+
