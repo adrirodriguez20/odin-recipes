@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,300&family=Passions+Conflict&family=Rubik+Distressed&display=swap');
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #be4d25;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 25px;
+  padding: 15px;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Nerko One', cursive;
+
+}
+
+.description {
+    color: blueviolet;
+}
+
+.ingredients {
+    color: darkolivegreen;
+}
+
+.steps {
+    color: darkslategrey;
+}
+
+.desc {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    color: indianred;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslateblue;
+    font-size: 18px;
+}
+
+ol {
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: indigo;
+    font-size: 18px;
+}
